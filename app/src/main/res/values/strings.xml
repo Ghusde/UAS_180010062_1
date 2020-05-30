@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">iHeartMusic</string>
+    <string name="id_content">Content ID</string>
+    <string name="tittle_content">Title</string>
+    <string name="date_issue">Date of issue</string>
+    <string name="picture">Picture Ilustration</string>
+    <string name="caption">Picture Caption</string>
+    <string name="author">Author</string>
+    <string name="content">Content</string>
+    <string name="link">Content Link</string>
+    <string name="add">Add Content</string>
+    <string name="search">Seacrh Content List</string>
+    <string name="edit">Edit Content</string>
+    <string name="delete">Delete Content</string>
+    <string name="share">Share Content</string>
+    <string name="colon">:</string>
+    <string name="save">Save</string>
+    <string name="iheart_music">iHeart Music</string>
+    <string name="choose_date">Choose</string>
+</resources>
